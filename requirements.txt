@@ -1,0 +1,4 @@
+pyfirmata2
+opencv-python
+numpy
+ultralytics
