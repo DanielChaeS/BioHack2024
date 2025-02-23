@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 YOLO CNN is trained (datasets and training notebook to be added)
 
+Arduino IDE with relevant code (to be added)
+
 3rd Party Camera connected to Arduino
 
 
